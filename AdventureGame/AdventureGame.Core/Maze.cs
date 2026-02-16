@@ -179,7 +179,7 @@ namespace AdventureGame.Core
                 }
                 Console.WriteLine();
             }
-        }
+        } 
 
         /// <summary>
         /// checks if the tile that the player is trying to move to is walkable (not a wall)

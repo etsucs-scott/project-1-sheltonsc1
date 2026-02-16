@@ -16,7 +16,7 @@ namespace AdventureGame.Core
 
         public int HealingAmount { get; set; }
 
-        public int Damage { get; set; }
+        public int Damage { get; set; } 
 
         public Item(string name, string message, int damage)
         {

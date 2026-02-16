@@ -24,7 +24,7 @@ namespace AdventureGame.Core
         /// applies the healing effect to the player
         /// </summary>
         /// <param name="player"></param>
-        public void ApplyEffect(Player player)
+        public void ApplyEffect(Player player) 
         {
             player.Health += HealAmount;
             Console.WriteLine($"You used {Name} and healed for {HealAmount} HP. Your current health is now {player.Health} HP.");

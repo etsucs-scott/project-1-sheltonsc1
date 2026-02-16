@@ -16,7 +16,7 @@ namespace AdventureGame.Core
         public Monster(string name, int health)
         {
             Name = name;
-            Health = 50;
+            Health = 50; 
         }
 
         /// <summary>

@@ -17,7 +17,7 @@ namespace AdventureGame.Core
             : base(name, string.Empty, damage) 
         {
             AtkDamage = damage;
-            Damage = 10; // Optionally set Item's Damage property
+            Damage = 10; // Optionally set Item's Damage property 
         }
 
         /// <summary>

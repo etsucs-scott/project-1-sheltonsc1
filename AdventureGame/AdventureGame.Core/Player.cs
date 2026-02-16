@@ -14,7 +14,7 @@
         /// <param name="health"></param>
         public Player(int health)
         {
-            Health = 150;
+            Health = 150; 
             Inventory = new List<Item>();
         }
 

@@ -4,18 +4,15 @@ namespace AdventureGame.Cli;
 
 public class Program
 {
-    dotnet; new sln - n AdventureGame
-    dotnet; new console - n AdventureGame.App
-    dotnet; sln add ProjectName.App
-    dotnet; build
-    dotnet; run--project ProjectName.App
+    dotnet build;
+    dotnet run--project ProjectName.App;
 
 
     public static void Main(string[] args)
     {
         // introduce the game and its objective to the player
         Console.WriteLine("Welcome to the Adventure Game!");
-        Console.WriteLine("You are a brave adventurer exploring a dangerous dungeon.");
+        Console.WriteLine("You are a brave adventurer exploring a mysterious dungeon.");
         Console.WriteLine("Your goal is to defeat the monsters and escape.");
         Console.WriteLine("Good luck!");
         // Create a player with 150 health

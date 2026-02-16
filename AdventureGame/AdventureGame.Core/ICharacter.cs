@@ -24,3 +24,4 @@ namespace AdventureGame.Core
         public void TakeDamage (int damage);
     }
 }
+ 
