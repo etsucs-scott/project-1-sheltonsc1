@@ -2,9 +2,13 @@
 # CSCI 1260 — Project 1: Adventure Game
 Samuel Shelton
 
-How to Play 
-# Start the solution by pressing the green arrow in visual studio 
-# Use WASD to control the player's movement 
-# Collect items and defeat the monster that lurks within the maze.
-# Reach the escape tile to win!
-# Good Luck!
+# How to Play 
+Start the solution by pressing the green arrow in visual studio 
+
+Use WASD to control the player's movement 
+
+Collect items and defeat the monster that lurks within the maze
+
+Reach the escape tile to win!
+
+Good Luck!
