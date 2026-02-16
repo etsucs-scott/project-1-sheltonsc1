@@ -1,13 +1,10 @@
 ﻿using System;
+using AdventureGame.Core;
 
 namespace AdventureGame.Cli;
 
 public class Program
 {
-    dotnet build;
-    dotnet run--project ProjectName.App;
-
-
     public static void Main(string[] args)
     {
         // introduce the game and its objective to the player
@@ -32,4 +29,3 @@ public class Program
         Console.WriteLine("\nGame Over. Thanks for playing!");
     }
 }
-
